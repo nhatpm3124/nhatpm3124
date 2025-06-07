@@ -1,9 +1,4 @@
-<div align="center">
-    
-  ![snake gif](https://github.com/nhatpm3124/nhatpm3124/blob/output/github-snake-dark.svg)
-</div>
-
-
+![snake gif](https://github.com/nhatpm3124/nhatpm3124/blob/output/github-contribution-grid-snake.gif)
 
 <!-- Visit Counter -->
 <div align="center">
