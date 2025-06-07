@@ -1,8 +1,15 @@
-# <div align="center">WELCOME BACK!</div>
+<div align="center">
+    
+  ![snake gif](https://github.com/nhatpm3124/nhatpm3124/blob/output/github-snake-dark.svg)
+</div>
 
 
 
-
+<!-- Visit Counter -->
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)
+</div>
 
 ---
 
